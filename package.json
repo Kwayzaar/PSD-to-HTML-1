@@ -1,0 +1,23 @@
+{
+  "name": "psd-to-html-1",
+  "version": "1.0.0",
+  "description": "Source code for TheNetNinja tutorial playlist - PSD to HTML &amp; CSS Series 1 (unresponsive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwayzaar/PSD-to-HTML-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwayzaar/PSD-to-HTML-1/issues"
+  },
+  "homepage": "https://github.com/Kwayzaar/PSD-to-HTML-1#readme",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
